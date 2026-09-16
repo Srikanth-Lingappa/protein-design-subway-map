@@ -95,6 +95,9 @@ This project is released under the [MIT License](LICENSE).
 
 ## Citation
 
+## Citation
+
 If you use the Protein Design Subway Map in research, teaching, presentations, software development, or other work, please cite the project.
 
-A formal citation and DOI will be provided following the first archived release.
+GitHub provides citation information through the `CITATION.cff` file. A DOI will be added following the first archived release on Zenodo.
+
