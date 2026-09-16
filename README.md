@@ -2,6 +2,8 @@
 
 An interactive map of the protein design and extended computational protein engineering ecosystem.
 
+![Protein Design Subway Map](protein-design-subway-map.png)
+
 **[Open the Interactive Map](https://srikanth-lingappa.github.io/protein-design-subway-map/)**
 
 ## Overview
