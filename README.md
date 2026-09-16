@@ -65,17 +65,23 @@ The map should therefore be treated as a starting point for exploration rather t
 
 ## Development
 
-The map was developed with assistance from large language models (LLMs). The resulting tools, data, parameters, and workflow connections have been manually reviewed, but some errors may remain.
+The concept and overall idea for the Protein Design Subway Map were developed by the author. The interactive map was then created with direct assistance from large language models (LLMs), based on the author's specifications and ideas.
+
+The resulting tools, data, parameters, workflow connections, and other content have been manually reviewed for accuracy. However, some errors or omissions may remain.
 
 Contributions, corrections, and suggestions for improvement are welcome.
 
 ## Sources and Attribution
 
-Information about individual tools and methods is derived from publicly available scientific publications, technical documentation, and other relevant resources.
+The map was developed using information from publicly available scientific publications, preprints, technical documentation, and resources associated with the tools and methods represented in the map.
 
-Individual tools, methods, publications, and software remain the work of their respective developers and authors.
+Individual tools and methods remain the work of their respective authors and developers.
 
 The Protein Design Subway Map is an independent project and is not affiliated with the developers or authors of the individual tools.
+
+Because the map was generated with substantial assistance from LLMs, the source information and scientific content should be independently verified against the original publications and documentation, particularly before using the map to make research decisions.
+
+If you identify an incorrect reference, tool description, parameter, workflow connection, or other information, please open an issue or submit a pull request.
 
 ## Contributing
 
