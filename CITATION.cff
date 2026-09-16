@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+title: "Protein Design Subway Map"
+message: "If you use the Protein Design Subway Map, please cite this project."
+type: software
+
+authors:
+  - family-names: Lingappa
+    given-names: Srikanth
+
+repository-code: "https://github.com/Srikanth-Lingappa/protein-design-subway-map"
+url: "https://srikanth-lingappa.github.io/protein-design-subway-map/"
+license: MIT
