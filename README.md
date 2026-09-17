@@ -24,10 +24,10 @@ Inspired by the London Underground, the map represents the protein design ecosys
 The current map covers:
 
 * **8 major stages**
-* **11 categories**
-* **133 tools**
+* **11 workflow categories**
+* **118 tools**
 
-The workflows span a broad range of protein design and related computational tasks, including structure prediction, protein generation, sequence design, protein–protein interaction design, protein–ligand design, peptide design, structural analysis, and developability-related analysis.
+The stages span a broad range of protein design and related computational tasks, including structure prediction, protein generation, sequence design, protein–protein interaction design, protein–ligand design, peptide design, structural analysis, and developability-related analysis.
 
 The map is intended to evolve as new methods and tools are developed.
 
