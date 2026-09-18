@@ -61,6 +61,8 @@ It is designed to work on both desktop and mobile devices, although the desktop 
 
 Most of the tools, data, parameters, and connections in the map have been manually reviewed for accuracy. However, the protein design ecosystem is evolving rapidly, and the map may contain errors, outdated information, or omissions.
 
+This map is not intended to be a comprehensive catalogue of computational protein design tools, but rather a selection of popular and commonly used tools.
+
 The map should therefore be treated as a starting point for exploration rather than a definitive reference. Users should verify individual tools, methods, parameters, and decision criteria against the relevant scientific publications and documentation before applying them to research.
 
 ## Development
