@@ -99,5 +99,5 @@ This project is released under the [MIT License](LICENSE).
 
 If you use the Protein Design Subway Map in research, teaching, presentations, software development, or other work, please cite the project.
 
-A DOI will be added following the first archived release on Zenodo.
+Lingappa, S. (2026). Protein Design Subway Map (Version v1.0.1) [Computer software]. Zenodo. DOI: https://doi.org/10.5281/zenodo.22831557
 
