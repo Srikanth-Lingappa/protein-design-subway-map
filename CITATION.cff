@@ -7,6 +7,10 @@ authors:
   - family-names: Lingappa
     given-names: Srikanth
 
+version: "v1.0.1"
+date-released: "2026-09-18"
+
 repository-code: "https://github.com/Srikanth-Lingappa/protein-design-subway-map"
 url: "https://srikanth-lingappa.github.io/protein-design-subway-map/"
+DOI: https://doi.org/10.5281/zenodo.22831557
 license: MIT
